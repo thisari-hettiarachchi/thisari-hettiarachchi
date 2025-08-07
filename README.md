@@ -5,7 +5,8 @@
 <h3 align="center">Passionate IT Student </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisari-hettiarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="thisari-hettiarachchi" /> </p>
 
-<table align="center">
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" height="300" width="300" /></p>
+<table align="left">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -52,9 +53,10 @@
 
 <h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/thisari-hettiarachchi-40a431228" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="mailto:msthisari@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/></a> ‎
+   <a href="[mailto:msthisari@gmail.com](https://linkedin.com/in/www.linkedin.com/in/thisari-hettiarachchi-40a431228)"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> ‎
 </p>
-
+  ‎ ‎
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
