@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 🧑‍🎓 I’m an Undergraduate at **CINEC**
 
