@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Thisari Hettiarachchi</h1>
-<h3 align="center">💻 Passionate IT student exploring UI/UX design and full-stack development. </h3>
+<h3 align="center">💻 Passionate IT student exploring Full-Stack Development and UI/UX design. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisari-hettiarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="thisari-hettiarachchi" /> </p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" height="300" width="300" /></p>
