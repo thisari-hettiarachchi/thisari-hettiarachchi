@@ -60,12 +60,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h3>
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+  Languages and Tools:
+</h3>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,java,js,cpp,css,figma,github,mongodb,mysql,nextjs,postman,py,react,tailwind,vscode,php,bootstrap&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,java,js,cpp,css,figma,github,mongodb,mysql,nextjs,postman,py,react,tailwind,vscode,php,bootstrap,vercel,nodejs,photoshop&perline=14" />
   </a>
 </p>
+
+
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
